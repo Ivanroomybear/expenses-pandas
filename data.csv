@@ -1,0 +1,201 @@
+id,date,category,item,amount_rub,payment_method
+1,2026-06-07,Clothes,T-Shirt,7388,T-Bank
+2,2026-06-13,Entertainment,Board Game,977,Sber
+3,2026-06-23,Gaming & Subs,Music Streaming,829,SBP
+4,2026-06-10,Transport,Bus/Metro,379,Cash
+5,2026-06-27,Food,Food Delivery,371,Cash
+6,2026-06-27,Entertainment,Board Game,2179,Cash
+7,2026-06-30,Entertainment,Fast Food,818,Cash
+8,2026-06-06,Food,Cafe,2481,Cash
+9,2026-06-13,Entertainment,Board Game,1250,Cash
+10,2026-06-13,Entertainment,Concert Ticket,883,Sber
+11,2026-06-07,Food,Supermarket,1195,T-Bank
+12,2026-06-28,Entertainment,Cinema,2729,T-Bank
+13,2026-06-27,Gaming & Subs,Premium Subs,1691,SBP
+14,2026-06-08,Transport,Train Ticket,637,SBP
+15,2026-06-20,Clothes,Backpack,3367,T-Bank
+16,2026-06-04,Clothes,Sneakers,3451,Sber
+17,2026-06-13,Food,Supermarket,438,SBP
+18,2026-06-29,Transport,Taxi,393,Sber
+19,2026-06-02,Transport,Train Ticket,92,SBP
+20,2026-06-19,Food,Food Delivery,1908,Cash
+21,2026-06-09,Gaming & Subs,Premium Subs,716,Cash
+22,2026-06-25,Clothes,T-Shirt,6251,T-Bank
+23,2026-06-12,Gaming & Subs,Premium Subs,826,T-Bank
+24,2026-06-18,Transport,Bus/Metro,191,SBP
+25,2026-06-05,Gaming & Subs,Steam,387,Cash
+26,2026-06-04,Transport,Train Ticket,597,Sber
+27,2026-06-23,Clothes,Hoodie,2960,Cash
+28,2026-06-01,Food,Cafe,2403,Sber
+29,2026-06-27,Food,Supermarket,2499,Cash
+30,2026-06-07,Entertainment,Board Game,2534,Cash
+31,2026-06-07,Gaming & Subs,Music Streaming,625,Cash
+32,2026-06-12,Clothes,Backpack,6492,Sber
+33,2026-06-02,Gaming & Subs,Steam,1472,SBP
+34,2026-06-05,Clothes,Backpack,3120,SBP
+35,2026-06-24,Gaming & Subs,Premium Subs,1319,Sber
+36,2026-06-18,Transport,Bus/Metro,250,Sber
+37,2026-06-07,Gaming & Subs,Steam,613,T-Bank
+38,2026-06-14,Clothes,Sneakers,4431,T-Bank
+39,2026-06-02,Transport,Train Ticket,514,SBP
+40,2026-06-07,Gaming & Subs,Premium Subs,551,T-Bank
+41,2026-06-17,Entertainment,Cinema,1432,Sber
+42,2026-06-06,Gaming & Subs,Music Streaming,1434,Sber
+43,2026-06-22,Clothes,Sneakers,1411,SBP
+44,2026-06-10,Transport,Taxi,82,SBP
+45,2026-06-17,Clothes,Hoodie,1330,Cash
+46,2026-06-10,Transport,Train Ticket,238,Sber
+47,2026-06-30,Transport,Taxi,102,Cash
+48,2026-06-19,Gaming & Subs,Music Streaming,1639,Sber
+49,2026-06-04,Entertainment,Cinema,1727,SBP
+50,2026-06-13,Clothes,Backpack,6305,T-Bank
+51,2026-06-26,Entertainment,Fast Food,766,SBP
+52,2026-06-10,Entertainment,Fast Food,1560,Cash
+53,2026-06-14,Clothes,Hoodie,5084,Sber
+54,2026-06-09,Clothes,Hoodie,6733,T-Bank
+55,2026-06-30,Clothes,T-Shirt,7314,Sber
+56,2026-06-30,Transport,Bus/Metro,688,Cash
+57,2026-06-10,Transport,Taxi,673,T-Bank
+58,2026-06-14,Transport,Taxi,332,T-Bank
+59,2026-06-19,Entertainment,Cinema,1778,Sber
+60,2026-06-29,Transport,Bus/Metro,502,Cash
+61,2026-06-13,Entertainment,Concert Ticket,2084,T-Bank
+62,2026-06-12,Food,Grocery Store,249,Cash
+63,2026-06-25,Transport,Taxi,97,SBP
+64,2026-06-25,Clothes,Backpack,7839,SBP
+65,2026-06-28,Gaming & Subs,Music Streaming,802,Sber
+66,2026-06-14,Clothes,Sneakers,1646,T-Bank
+67,2026-06-30,Food,Food Delivery,256,T-Bank
+68,2026-06-09,Gaming & Subs,In-game Donate,589,T-Bank
+69,2026-06-05,Entertainment,Concert Ticket,481,Cash
+70,2026-06-15,Entertainment,Board Game,2322,T-Bank
+71,2026-06-23,Food,Grocery Store,1430,Cash
+72,2026-06-30,Entertainment,Concert Ticket,1607,T-Bank
+73,2026-06-16,Entertainment,Concert Ticket,316,Cash
+74,2026-06-28,Gaming & Subs,In-game Donate,1773,SBP
+75,2026-06-09,Food,Food Delivery,2450,Cash
+76,2026-06-18,Clothes,Hoodie,6284,T-Bank
+77,2026-06-24,Gaming & Subs,Premium Subs,1867,SBP
+78,2026-06-29,Gaming & Subs,Steam,1732,Cash
+79,2026-06-12,Gaming & Subs,Premium Subs,1956,SBP
+80,2026-06-05,Clothes,Backpack,4322,SBP
+81,2026-06-30,Food,Supermarket,1001,Cash
+82,2026-06-25,Transport,Bus/Metro,206,T-Bank
+83,2026-06-09,Transport,Bus/Metro,717,Sber
+84,2026-06-26,Entertainment,Concert Ticket,1507,T-Bank
+85,2026-06-17,Transport,Train Ticket,410,Cash
+86,2026-06-10,Food,Grocery Store,2450,T-Bank
+87,2026-06-19,Clothes,Backpack,3937,Sber
+88,2026-06-02,Food,Supermarket,1304,SBP
+89,2026-06-12,Gaming & Subs,Steam,307,SBP
+90,2026-06-15,Transport,Train Ticket,396,Sber
+91,2026-06-22,Gaming & Subs,In-game Donate,732,SBP
+92,2026-06-11,Food,Supermarket,1397,T-Bank
+93,2026-06-16,Gaming & Subs,Music Streaming,977,T-Bank
+94,2026-06-16,Transport,Bus/Metro,164,Cash
+95,2026-06-17,Food,Grocery Store,1854,T-Bank
+96,2026-06-12,Entertainment,Concert Ticket,2152,Sber
+97,2026-06-29,Entertainment,Board Game,869,Cash
+98,2026-06-29,Clothes,Hoodie,2273,SBP
+99,2026-06-01,Entertainment,Board Game,465,Sber
+100,2026-06-15,Food,Cafe,1941,T-Bank
+101,2026-06-19,Transport,Taxi,72,T-Bank
+102,2026-06-30,Food,Supermarket,1359,Cash
+103,2026-06-28,Clothes,Hoodie,3983,SBP
+104,2026-06-09,Entertainment,Concert Ticket,369,SBP
+105,2026-06-04,Transport,Train Ticket,540,T-Bank
+106,2026-06-17,Gaming & Subs,Music Streaming,1423,Cash
+107,2026-06-20,Transport,Bus/Metro,284,SBP
+108,2026-06-19,Gaming & Subs,Premium Subs,1273,SBP
+109,2026-06-07,Gaming & Subs,Premium Subs,1485,Sber
+110,2026-06-06,Clothes,Hoodie,5178,SBP
+111,2026-06-15,Transport,Taxi,668,Cash
+112,2026-06-15,Entertainment,Fast Food,629,Cash
+113,2026-06-24,Food,Supermarket,2304,SBP
+114,2026-06-14,Transport,Train Ticket,780,Sber
+115,2026-06-29,Transport,Train Ticket,536,T-Bank
+116,2026-06-22,Food,Food Delivery,429,T-Bank
+117,2026-06-12,Transport,Taxi,490,Cash
+118,2026-06-23,Food,Grocery Store,2334,Cash
+119,2026-06-15,Entertainment,Cinema,2095,T-Bank
+120,2026-06-13,Gaming & Subs,Premium Subs,692,Cash
+121,2026-06-17,Food,Food Delivery,2031,T-Bank
+122,2026-06-25,Entertainment,Board Game,2518,Cash
+123,2026-06-11,Gaming & Subs,Steam,888,Cash
+124,2026-06-23,Entertainment,Board Game,2783,SBP
+125,2026-06-26,Gaming & Subs,Music Streaming,379,SBP
+126,2026-06-17,Clothes,Hoodie,4811,SBP
+127,2026-06-09,Entertainment,Board Game,943,Sber
+128,2026-06-01,Gaming & Subs,In-game Donate,1720,Sber
+129,2026-06-03,Clothes,T-Shirt,2671,T-Bank
+130,2026-06-25,Entertainment,Board Game,2851,Sber
+131,2026-06-19,Gaming & Subs,Music Streaming,1659,Cash
+132,2026-06-20,Entertainment,Board Game,1086,Cash
+133,2026-06-28,Entertainment,Board Game,1083,SBP
+134,2026-06-18,Transport,Taxi,349,T-Bank
+135,2026-06-18,Clothes,Backpack,5335,Cash
+136,2026-06-09,Food,Food Delivery,2241,T-Bank
+137,2026-06-29,Entertainment,Fast Food,912,Cash
+138,2026-06-16,Gaming & Subs,Steam,1586,Sber
+139,2026-06-02,Food,Supermarket,1195,Sber
+140,2026-06-27,Gaming & Subs,Steam,785,T-Bank
+141,2026-06-04,Clothes,T-Shirt,5591,Cash
+142,2026-06-03,Gaming & Subs,Music Streaming,1393,T-Bank
+143,2026-06-07,Entertainment,Board Game,354,Sber
+144,2026-06-25,Entertainment,Fast Food,642,Sber
+145,2026-06-06,Entertainment,Concert Ticket,945,Cash
+146,2026-06-09,Transport,Bus/Metro,617,Sber
+147,2026-06-03,Gaming & Subs,Music Streaming,561,Sber
+148,2026-06-08,Transport,Train Ticket,470,Sber
+149,2026-06-21,Entertainment,Fast Food,1860,Cash
+150,2026-06-15,Food,Grocery Store,2269,SBP
+151,2026-06-18,Gaming & Subs,In-game Donate,499,T-Bank
+152,2026-06-29,Transport,Bus/Metro,692,SBP
+153,2026-06-03,Transport,Taxi,275,Cash
+154,2026-06-20,Food,Food Delivery,561,Sber
+155,2026-06-07,Food,Grocery Store,1334,T-Bank
+156,2026-06-07,Gaming & Subs,In-game Donate,428,T-Bank
+157,2026-06-15,Entertainment,Board Game,623,Sber
+158,2026-06-13,Entertainment,Cinema,2740,T-Bank
+159,2026-06-17,Transport,Bus/Metro,173,SBP
+160,2026-06-24,Transport,Taxi,773,Sber
+161,2026-06-23,Entertainment,Cinema,1811,T-Bank
+162,2026-06-06,Gaming & Subs,Premium Subs,1603,Sber
+163,2026-06-19,Clothes,Backpack,7776,SBP
+164,2026-06-12,Gaming & Subs,Premium Subs,1826,Sber
+165,2026-06-09,Food,Food Delivery,2413,Sber
+166,2026-06-23,Transport,Taxi,458,Cash
+167,2026-06-15,Entertainment,Concert Ticket,1071,T-Bank
+168,2026-06-16,Entertainment,Cinema,2713,Sber
+169,2026-06-06,Food,Supermarket,2262,Cash
+170,2026-06-01,Entertainment,Cinema,2724,Sber
+171,2026-06-05,Entertainment,Concert Ticket,838,Sber
+172,2026-06-17,Transport,Bus/Metro,725,SBP
+173,2026-06-23,Food,Supermarket,373,T-Bank
+174,2026-06-17,Food,Grocery Store,1773,T-Bank
+175,2026-06-23,Gaming & Subs,Music Streaming,794,Sber
+176,2026-06-10,Clothes,Backpack,2897,T-Bank
+177,2026-06-01,Entertainment,Fast Food,1434,Cash
+178,2026-06-05,Transport,Bus/Metro,523,Cash
+179,2026-06-18,Clothes,T-Shirt,4440,SBP
+180,2026-06-03,Gaming & Subs,In-game Donate,1659,T-Bank
+181,2026-06-19,Food,Cafe,476,T-Bank
+182,2026-06-02,Clothes,T-Shirt,5993,Cash
+183,2026-06-04,Food,Grocery Store,981,Cash
+184,2026-06-06,Gaming & Subs,Premium Subs,966,T-Bank
+185,2026-06-01,Gaming & Subs,Premium Subs,426,Sber
+186,2026-06-10,Clothes,Backpack,3238,SBP
+187,2026-06-22,Gaming & Subs,In-game Donate,894,T-Bank
+188,2026-06-03,Entertainment,Board Game,598,Cash
+189,2026-06-11,Clothes,Backpack,4361,Cash
+190,2026-06-23,Gaming & Subs,Premium Subs,963,T-Bank
+191,2026-06-12,Food,Grocery Store,2316,T-Bank
+192,2026-06-11,Gaming & Subs,Steam,603,SBP
+193,2026-06-24,Clothes,T-Shirt,4880,Cash
+194,2026-06-07,Gaming & Subs,In-game Donate,1154,Cash
+195,2026-06-25,Clothes,T-Shirt,2579,Sber
+196,2026-06-05,Food,Supermarket,398,T-Bank
+197,2026-06-05,Clothes,Hoodie,2812,Sber
+198,2026-06-26,Clothes,Hoodie,2105,T-Bank
+199,2026-06-16,Entertainment,Board Game,2625,Cash
+200,2026-06-12,Clothes,Backpack,2771,T-Bank
