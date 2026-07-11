@@ -20,3 +20,9 @@ print(df['item'].value_counts().idxmax())
 
 # Task #5: Calculate the average transaction value (amount_rub) for each unique category and return the category name with the highest average value.
 print(df.groupby('category')['amount_rub'].mean().idxmax())
+
+# Task #6: Convert the date column to datetime. Group the data by the day of the week (Monday, Tuesday, etc.). Find the day of the week with the highest average transaction volume (amount_rub) and the day with the highest total transactions count.
+df['date'] = pd.to_datetime(df['date'])
+df['weekday'] = df['date'].dt.day_name()
+transactions_count = df.groupby('weekday').size()
+print(transactions_count.idxmax())
